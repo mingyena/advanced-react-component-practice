@@ -8,6 +8,8 @@
 * This will indicate where the component should start and end
 * Cut out the code between the comments and put in its own file
 * Create .js files for each component. Make sure to name it the same as the component.
+* Decide what is in the component that should not be hard coded
+* Remove hard coded info and define what props are needed by this component to show dynamic information
 
 ### Components
 * TopNav (already made)
